@@ -27,5 +27,6 @@
     },
     "news": [{"headline": "", "source": "www.source.com"}, {"headline": "", "source": "www.othersource.com"}],
     "certificates": ["", "", ""],
+    "totalScore": 100,
     "extraInfo": ""
 }
