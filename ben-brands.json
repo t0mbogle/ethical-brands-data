@@ -1,0 +1,31 @@
+{
+    "name": "",
+    "revenue": 5000000,
+    "ownership": {
+        "owner": "",
+        "info": ""
+    },
+    "animals": {
+        "testing": true,
+        "score": 5,
+        "info": ""
+    },
+    "environment": {
+        "co2": 2000000,
+        "pledge": "",
+        "score": 5,
+        "info": ""
+    },
+    "labour": {
+        "forcedLabour": false,
+        "score": 5,
+        "info": ""
+    },
+    "philanthropy": {
+        "donations": 50000,
+        "info": ""
+    },
+    "news": [{"headline": "", "source": "www.source.com"}, {"headline": "", "source": "www.othersource.com"}],
+    "certificates": ["", "", ""],
+    "extraInfo": ""
+}
