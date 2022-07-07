@@ -1,164 +1,178 @@
 {
-    "brands": [
-        {
-            "name": "The North Face",
-            "testing": "No",
-            "co2": "N/A",
-            "pledge": "Remove single-use packaging by 2025",
-            "certificates": [ "Bluesign System Partner" ],
-            "labour": 3,
-            "extra": "Committed to achieving 100% responsible down, cruelty free and sustainable. PETA approved",
-            "score": 65
-        },
-        {
-            "name": "Patagonia",
-            "testing": "No",
-            "co2": "224,565 tonnes",
-            "pledge": "Carbon neutral by 2025",
-            "certificates": [ "Bluesign System Partner", "1% For The Planet", "B-Corp", "Fair Labor Association" ],
-            "labour": 4,
-            "extra": "Pledged 1% of sales to the preservation and restoration of forest environments",
-            "score": 90
-        },
-        {
-            "name": "Diesel",
-            "testing": "Yes",
-            "co2": "N/A",
-            "pledge": "Zero GHG emissions by 2050",
-            "certificates": "N/A",
-            "labour": 1,
-            "extra": "Supply chain not certified by labour standards, 11-20% in the Fashion Transparency Index",
-            "score": 15
-        },
-        {
-            "name": "Jack Wolfskin",
-            "testing": "No",
-            "co2": "N/A",
-            "pledge": "N/A",
-            "certificates": [ "Bluesign System Partner", "Fair Wear Foundation" ],
-            "labour": 4,
-            "extra": "Transparent supply chain and use of sustainable materials",
-            "score": 75
-        },
-        {
-            "name": "Primark",
-            "testing": "No",
-            "co2": "6.4m tonnes",
-            "pledge": "More sustainably sources materials by 2030",
-            "certificates": [ "Ethical Trading Initiative", "Leaping Bunny" ],
-            "labour": 2.5,
-            "extra": "Cruelty free products. Supply chain received a score of 31-40% in the 2021 Fashion Transparency Index",
-            "score": 40
-        },
-        {
-            "name": "The Coca-Cola Company",
-            "testing": "No",
-            "co2": "5.49m tonnes",
-            "pledge": "Net zero by 2040",
-            "certificates": [ "ISO 27001 Information Security" ],
-            "labour": 3,
-            "extra": "Plastic pollution amounting to ~3m tonnes of packaging around the world annually",
-            "score": 55
-        },
-        {
-            "name": "PepsiCo",
-            "testing": "No",
-            "co2": "3.6m tonnes",
-            "pledge": "Net zero by 2040",
-            "certificates": [ "ISO 14001 Environmental Management" ],
-            "labour": 4,
-            "extra": "Received grade A for their progress to zero emissions",
-            "score": 65
-        },
-        {
-            "name": "Beiersdorf",
-            "testing": "Yes",
-            "co2": "N/A",
-            "pledge": "Reduce GHG emissions by 30% by 2025",
-            "certificates": [ "ISO 14001 Environmental Management" ],
-            "labour": 4,
-            "extra": "PETA reports they are not cruelty free",
-            "score": 50
-        },
-        {
-            "name": "Johnson & Johnson",
-            "testing": "Yes",
-            "co2": "764,760 tonnes",
-            "pledge": "Net zero across value chain by 2045",
-            "certificates": [ "ISO 14001 Environmental Management" ],
-            "labour": 3,
-            "extra": "Received grade D+ for their progress to zero emissions",
-            "score": 30
-        },
-        {
-            "name": "Nestle",
-            "testing": "Yes",
-            "co2": "3.37m tonnes",
-            "pledge": "Net zero by 2050",
-            "certificates": [ "ISO 9001 Quality Management", "ISO 22000 Food Safety" ],
-            "labour": 3.5,
-            "extra": "2021 report, initiated removals of 9.7m tonnes of co2 through solutions within its value chain",
-            "score": 60
-        },
-        {
-            "name": "Kraft Heinz",
-            "testing": "No",
-            "co2": "N/A",
-            "pledge": "50% emissions reduction by 2030",
-            "certificates": [ "ISO 9001 Quality Management", "ISO 14001 Environmental Management" ],
-            "labour": 3.5,
-            "extra": "Ranked as tier 6 (1-6) from a BBFAW report on farm animal welfare, 2017",
-            "score": 45
-        },
-        {
-            "name": "Cadbury",
-            "testing": "Yes",
-            "co2": "N/A",
-            "pledge": "Sustainably sourced dairy for all products by 2025",
-            "certificates": [ "Cocoa Life - 100% sustainably sourced" ],
-            "labour": 3,
-            "extra": "Parent company, Mondelez supports poor supply chain practices in China, 7.8/100 CITI",
-            "score": 35
-        },
-        {
-            "name": "Kellogg's",
-            "testing": "No",
-            "co2": "872,800 tonnes",
-            "pledge": "100% reusable/recyclable packaging by 2025",
-            "certificates": [ "SQF certified", "ISO 14001 Environmental Management" ],
-            "labour": 4,
-            "extra": "Since 2019 reached agreement with PETA prohibiting animal testing",
-            "score": 60
-        },
-        {
-            "name": "Google",
-            "testing": "No",
-            "co2": "~10m tonnes",
-            "pledge": "Carbon free by 2030",
-            "certificates": [ "ISO 50001 Energy Management", "ISO 27018 Protection of Personal Information" ],
-            "labour": 4.5,
-            "extra": "From 2007 emissions have been neutralized through carbon offset projects",
-            "score": 80
-        },
-        {
-            "name": "Apple",
-            "testing": "No",
-            "co2": "23.3m tonnes",
-            "pledge": "Carbon neutral from 2030",
-            "certificates": [ "ISO 27018 Protection of Personal Information", "ISO 27001 Information Security" ],
-            "labour": 4,
-            "extra": "Rated B- by Greenpeace within the tech sector for their environmental impact",
-            "score": 72
-        },
-        {
-            "name": "Samsung",
-            "testing": "No",
-            "co2": "12.9m tonnes",
-            "pledge": "Remove plastic packaging by 2025",
-            "certificates": [ "ISO 14001 Environmental Management" ],
-            "labour": 3,
-            "extra": "Rated D- by Greenpeace within the tech sector for their environmental impact",
-            "score": 40
-        }
-    ]
+  "brands": [
+    {
+      "name": "The North Face",
+      "testing": "No",
+      "co2": "N/A",
+      "pledge": "Remove single-use packaging by 2025",
+      "certificates": ["Bluesign System Partner"],
+      "labour": 3,
+      "extra": "Committed to achieving 100% responsible down, cruelty free and sustainable. PETA approved",
+      "score": 65
+    },
+    {
+      "name": "Patagonia",
+      "testing": "No",
+      "co2": "224,565 tonnes",
+      "pledge": "Carbon neutral by 2025",
+      "certificates": [
+        "Bluesign System Partner",
+        "1% For The Planet",
+        "B-Corp",
+        "Fair Labor Association"
+      ],
+      "labour": 4,
+      "extra": "Pledged 1% of sales to the preservation and restoration of forest environments",
+      "score": 90
+    },
+    {
+      "name": "Diesel",
+      "testing": "Yes",
+      "co2": "N/A",
+      "pledge": "Zero GHG emissions by 2050",
+      "certificates": "N/A",
+      "labour": 1,
+      "extra": "Supply chain not certified by labour standards, 11-20% in the Fashion Transparency Index",
+      "score": 15
+    },
+    {
+      "name": "Jack Wolfskin",
+      "testing": "No",
+      "co2": "N/A",
+      "pledge": "N/A",
+      "certificates": ["Bluesign System Partner", "Fair Wear Foundation"],
+      "labour": 4,
+      "extra": "Transparent supply chain and use of sustainable materials",
+      "score": 75
+    },
+    {
+      "name": "Primark",
+      "testing": "No",
+      "co2": "6.4m tonnes",
+      "pledge": "More sustainably sources materials by 2030",
+      "certificates": ["Ethical Trading Initiative", "Leaping Bunny"],
+      "labour": 2.5,
+      "extra": "Cruelty free products. Supply chain received a score of 31-40% in the 2021 Fashion Transparency Index",
+      "score": 40
+    },
+    {
+      "name": "The Coca-Cola Company",
+      "testing": "No",
+      "co2": "5.49m tonnes",
+      "pledge": "Net zero by 2040",
+      "certificates": ["ISO 27001 Information Security"],
+      "labour": 3,
+      "extra": "Plastic pollution amounting to ~3m tonnes of packaging around the world annually",
+      "score": 55
+    },
+    {
+      "name": "PepsiCo",
+      "testing": "No",
+      "co2": "3.6m tonnes",
+      "pledge": "Net zero by 2040",
+      "certificates": ["ISO 14001 Environmental Management"],
+      "labour": 4,
+      "extra": "Received grade A for their progress to zero emissions",
+      "score": 65
+    },
+    {
+      "name": "Beiersdorf",
+      "testing": "Yes",
+      "co2": "N/A",
+      "pledge": "Reduce GHG emissions by 30% by 2025",
+      "certificates": ["ISO 14001 Environmental Management"],
+      "labour": 4,
+      "extra": "PETA reports they are not cruelty free",
+      "score": 50
+    },
+    {
+      "name": "Johnson & Johnson",
+      "testing": "Yes",
+      "co2": "764,760 tonnes",
+      "pledge": "Net zero across value chain by 2045",
+      "certificates": ["ISO 14001 Environmental Management"],
+      "labour": 3,
+      "extra": "Received grade D+ for their progress to zero emissions",
+      "score": 30
+    },
+    {
+      "name": "Nestle",
+      "testing": "Yes",
+      "co2": "3.37m tonnes",
+      "pledge": "Net zero by 2050",
+      "certificates": ["ISO 9001 Quality Management", "ISO 22000 Food Safety"],
+      "labour": 3.5,
+      "extra": "2021 report, initiated removals of 9.7m tonnes of co2 through solutions within its value chain",
+      "score": 60
+    },
+    {
+      "name": "Kraft Heinz",
+      "testing": "No",
+      "co2": "N/A",
+      "pledge": "50% emissions reduction by 2030",
+      "certificates": [
+        "ISO 9001 Quality Management",
+        "ISO 14001 Environmental Management"
+      ],
+      "labour": 3.5,
+      "extra": "Ranked as tier 6 (1-6) from a BBFAW report on farm animal welfare, 2017",
+      "score": 45
+    },
+    {
+      "name": "Cadbury",
+      "testing": "Yes",
+      "co2": "N/A",
+      "pledge": "Sustainably sourced dairy for all products by 2025",
+      "certificates": ["Cocoa Life - 100% sustainably sourced"],
+      "labour": 3,
+      "extra": "Parent company, Mondelez supports poor supply chain practices in China, 7.8/100 CITI",
+      "score": 35
+    },
+    {
+      "name": "Kellogg's",
+      "testing": "No",
+      "co2": "872,800 tonnes",
+      "pledge": "100% reusable/recyclable packaging by 2025",
+      "certificates": ["SQF certified", "ISO 14001 Environmental Management"],
+      "labour": 4,
+      "extra": "Since 2019 reached agreement with PETA prohibiting animal testing",
+      "score": 60
+    },
+    {
+      "name": "Google",
+      "testing": "No",
+      "co2": "~10m tonnes",
+      "pledge": "Carbon free by 2030",
+      "certificates": [
+        "ISO 50001 Energy Management",
+        "ISO 27018 Protection of Personal Information"
+      ],
+      "labour": 4.5,
+      "extra": "From 2007 emissions have been neutralized through carbon offset projects",
+      "score": 80
+    },
+    {
+      "name": "Apple",
+      "testing": "No",
+      "co2": "23.3m tonnes",
+      "pledge": "Carbon neutral from 2030",
+      "certificates": [
+        "ISO 27018 Protection of Personal Information",
+        "ISO 27001 Information Security"
+      ],
+      "labour": 4,
+      "extra": "Rated B- by Greenpeace within the tech sector for their environmental impact",
+      "score": 72
+    },
+    {
+      "name": "Samsung",
+      "testing": "No",
+      "co2": "12.9m tonnes",
+      "pledge": "Remove plastic packaging by 2025",
+      "certificates": ["ISO 14001 Environmental Management"],
+      "labour": 3,
+      "extra": "Rated D- by Greenpeace within the tech sector for their environmental impact",
+      "score": 40
+    }
+  ]
 }

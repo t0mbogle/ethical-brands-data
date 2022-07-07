@@ -1,0 +1,48 @@
+{
+  "name": string
+  "revenue": number
+  "ownership": {
+    "owner": string
+    "info": string
+  },
+  "animals": {
+    "testing": boolean
+    "score": number
+    "info": string
+    "sources": array
+  },
+  "environment": {
+    "co2": string
+    "pledges": string
+    "score": number
+    "info": string
+  },
+  "labour": {
+    "forcedLabour": boolean
+    "score": number
+    "info": string
+  },
+  "philanthropy": {
+    "donations": number
+    "info": string
+  },
+  "news": [
+    {
+      "headline": string
+      "source": string
+    },
+    {
+      "headline": string
+      "source": string
+    },
+    {
+      "headline": string
+      "source": string
+    }
+  ],
+  "certificates": array
+  "totalScore": number
+  "extraInfo": string
+  "sources": array
+  "category": string
+}
