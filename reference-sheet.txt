@@ -22,7 +22,7 @@
     "info": string
   },
   "philanthropy": {
-    "donations": number
+    "donations": string
     "info": string
   },
   "news": [
