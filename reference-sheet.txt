@@ -9,11 +9,10 @@
     "testing": boolean
     "score": number
     "info": string
-    "sources": array
   },
   "environment": {
     "co2": string
-    "pledges": string
+    "pledges": array
     "score": number
     "info": string
   },
