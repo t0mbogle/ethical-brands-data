@@ -44,4 +44,5 @@
   "extraInfo": string
   "sources": array
   "category": string
+  "logo": string
 }
