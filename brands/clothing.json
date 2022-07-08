@@ -1,0 +1,267 @@
+[
+  {
+    "name": "The North Face",
+    "revenue": 5000000,
+    "ownership": {
+      "owner": "VF Corporation Inc",
+      "info": "100% owned by VF Corporation Inc"
+    },
+    "animals": {
+      "testing": false,
+      "score": 4,
+      "info": "Primary Animal Derived Materials used by the company are leather, wool and down. VF Corporation policies prohibit their companies mulesing during wool production. All down and feathers come from Responsible Down Standard suppliers. Committed to achieving 100% responsible down, cruelty free and sustainable. PETA approved",
+      "sources": [
+        "https://s3.amazonaws.com/content.stockpr.com/vfcsustainability/files/pages/resources/policies-standards/ADM+Policy.pdf"
+      ]
+    },
+    "environment": {
+      "co2": "18,405 MT",
+      "pledges": [
+        "Remove single-use packaging by 2025.",
+        "An absolute reduction of Scope 1 and 2 greenhouse gas emissions of 55% by 2030"
+      ],
+      "score": 4,
+      "info": "The company was not found to be involved with any particular environment damaging projects"
+    },
+    "labour": {
+      "forcedLabour": true,
+      "score": 2,
+      "info": "There is an active boycott called against The North Face as it allegedly directly or indirectly benefits from the use of Uyghur workers outside Xinjiang through potentially abusive labour transfer programs"
+    },
+    "philanthropy": {
+      "donations": "£25,0000 in 2022",
+      "info": "Donations made to the UN's Refugee Agency (UNHCR), which is dedicating to protecting rights and building a better future for refugees. Also donated The North Face products to Ukrainian refugees on the ground in Poland."
+    },
+    "news": [
+      {
+        "headline": "Why The North Face challenged Strava users to get out and run",
+        "source": "https://www.thedrum.com/news/2022/06/20/why-the-north-face-challenged-strava-users-get-out-and-run"
+      },
+      {
+        "headline": "The North Face reveals this year's pride collection",
+        "source": "https://www.hungertv.com/editorial/the-north-face-reveals-this-years-pride-collection/"
+      },
+      {
+        "headline": "The North Face Joins Archive Resale Circular Initiative",
+        "source": "https://biomarketinsights.com/the-north-face-joins-archive-resale-circular-initiative/"
+      }
+    ],
+    "certificates": ["Bluesign System Partner", "Resbonsible Down Standard"],
+    "totalScore": 65,
+    "extraInfo": "N/A",
+    "sources": [
+      "https://s3.amazonaws.com/content.stockpr.com/vfcsustainability/files/pages/resources/policies-standards/ADM+Policy.pdf",
+      "https://www.saveuighur.org/these-brands-are-still-linked-to-uyghur-forced-labor-help-stop-them-now/",
+      "https://d1io3yog0oux5.cloudfront.net/vfc/files/documents/Sustainability/Resources/VF_FY2020_Made_for_Change_Report_FINAL.pdf",
+      "https://www.thenorthface.co.uk/about-us/explore-fund.html"
+    ],
+    "category": "clothing",
+    "logo": "https://commons.wikimedia.org/wiki/File:TheNorthFace_logo.svg"
+  },
+  {
+    "name": "Patagonia Inc",
+    "revenue": 0,
+    "ownership": {
+      "owner": "Patagonia Works",
+      "info": "100% owned by Patagonia Works"
+    },
+    "animals": {
+      "testing": false,
+      "score": 5,
+      "info": "Primary Animal Derived Materials used by the company are wool and down. All Patagonia down products contain only 100% Advance Global Traceable Down Standard down. The company have also introduced a range that utilise recycled down. Although Patagonia uses merino wool, which often involves muelsing, the company stated on its website that 'All virgin wool used in Patagonia products is sourced under the strict guidelines of the Responsible Wool Standard (RWS)'."
+    },
+    "environment": {
+      "co2": "224,565 tonnes",
+      "pledges": [
+        "By 2025, all  apparel products will be made from 100% recycled, reclaimed or renewable resources.",
+        "To be carbon neutral across entire business including our supply chain by 2025",
+        "By 2025, all packaging will be 100% reusable, home compostable, renewable, or easily recyclable.",
+        "By 2030, 100% of the cotton and hemp fiber used will be Regenerative Organic Certified (ROC)."
+      ],
+      "score": 4,
+      "info": "All of the cotton the company uses is organic, and it makes use of hemp and recycled materials such as recycled nylon, polyester and down. The company also uses a repair service."
+    },
+    "labour": {
+      "forcedLabour": false,
+      "score": 3,
+      "info": "The company was named in a report titled 'Global Supply Chains, Forced Labor, and the Xinjiang Uyghur Autonomous Region [XUAR]' where it was allegedly 'suspected of directly employing forced labor or sourcing from suppliers that are suspected of using forced labor'. The company have since stated that they are activeley exiting the Xinjiang region, in accordance with with the Fair Labor Association (FLA)."
+    },
+    "philanthropy": {
+      "donations": "More than $110 million to date",
+      "info": "The company has donated 1% of its sales as environmental grants through the '1% for the Planet' scheme, for over 30 years."
+    },
+    "news": [
+      {
+        "headline": "Patagonia teams on Dutch apparel repair centre",
+        "source": "https://www.just-style.com/news/patagonia-teams-on-dutch-apparel-repair-centre/"
+      },
+      {
+        "headline": "Enzymes Could Help Brands Like Patagonia and Puma Hit Plastic-Recycling Targets",
+        "source": "https://www.wsj.com/articles/enzymes-could-help-brands-like-patagonia-and-puma-hit-plastic-recycling-targets-11657188000"
+      },
+      {
+        "headline": "Patagonia's New Circularity Deal Says Plastic Bottles Aren't the Solution",
+        "source": "https://sourcingjournal.com/topics/raw-materials/carbios-patagonia-puma-salomon-textile-circularity-biorecycling-footwear-353824/"
+      }
+    ],
+    "certificates": [
+      "Bluesign System Partner",
+      "1% For The Planet",
+      "B-Corp",
+      "Fair Labor Association"
+    ],
+    "totalScore": 90,
+    "extraInfo": "Patagonia has a dedicated team, focused on supporting USSOCOM [United States Special Operations Command] with delivering US Made/Berry Compliant technical cold weather and combat uniforms as prime provider to the Protective Combat Uniform program.",
+    "sources": [
+      "https://www.patagonia.com",
+      "https://www.nationalreview.com/corner/that-big-military-contractor-patagonia/"
+    ],
+    "category": "clothing",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Patagonia_%28Unternehmen%29_logo.svg"
+  },
+  {
+    "name": "Diesel",
+    "revenue": 385000000,
+    "ownership": {
+      "owner": "OTB SpA",
+      "info": "100% owned by OTB SpA"
+    },
+    "animals": {
+      "testing": true,
+      "score": 2,
+      "info": "Although OTB SpA states that 'any technique to obtain plumes and feathers from live animals are prohibited' for it's compaines, the company has not adopted a standard for sourcing down. Diesel also do not disclose whether their fragrence production involves animal testing. Because of this, it cannot be considered cruelty-free, as per PETA's standard."
+    },
+    "environment": {
+      "co2": "N/A",
+      "pledges": ["Zero GHG emissions by 2050"],
+      "score": 1,
+      "info": "The company does not report on it's Scope 1, Scope 2 or Scope 3 emissions, or whether they have any targets in line with international agreements. The company also scored 0/100 in WWF, Pesticide Action Network UK and Solidaridad's published report regarding the cotton sector and its sustainability"
+    },
+    "labour": {
+      "forcedLabour": false,
+      "score": 2,
+      "info": "Supply chain not certified by labour standards, and scores 11-20% in the Fashion Transparency Index. There is also no sufficient indication that Diesel systematically involves trade unions in its auditing system"
+    },
+    "philanthropy": {
+      "donations": "N/A",
+      "info": "OTB SpA donated 10% of its online sales to combat coronavirus in April 2020."
+    },
+    "news": [
+      {
+        "headline": "Men Jeans Market is set to experience a significant growth rate | Levi Strauss & Co., Kontoor Brands, Diesel S.p.A, PVH Corporation",
+        "source": "https://www.digitaljournal.com/pr/men-jeans-market-is-set-to-experience-a-significant-growth-rate-levi-strauss-co-kontoor-brands-diesel-s-p-a-pvh-corporation"
+      },
+      {
+        "headline": "Diesel is not cruelty-free",
+        "source": "https://www.crueltyfreekitty.com/brands/diesel/"
+      }
+    ],
+    "certificates": [],
+    "totalScore": 15,
+    "extraInfo": "N/A",
+    "sources": [
+      "https://www.opencorporation.org/en/company/diesel-s-p-a",
+      "https://uk.diesel.com",
+      "https://www.sustainablecottonranking.org/",
+      "https://www.otb.net/data/the-group_6ad97/categorie/7/otb_code_of_conduct_-_english_5df93.pdf"
+    ],
+    "category": "clothing",
+    "logo": "https://searchlogovector.com/wp-content/uploads/2020/04/diesel-spa-logo-vector.png"
+  },
+  {
+    "name": "Jack Wolfskin",
+    "revenue": 165000000,
+    "ownership": {
+      "owner": "Callaway Golf Company",
+      "info": "100% owned by Callaway Golf Company"
+    },
+    "animals": {
+      "testing": false,
+      "score": 4,
+      "info": "they do not use real fur in their producs. They also state 'Mulesing is a no-go for us. We pay close attention to where our Merino wool comes from; only accepting wool where the animals' welfare is maintained. We absolutely condemn cruel mulesing'."
+    },
+    "environment": {
+      "co2": "N/A",
+      "pledges": [],
+      "score": 3,
+      "info": "The company does not report on it's Scope 1, Scope 2 or Scope 3 emissions, or whether they have any targets in line with international agreements. They do source 100% organic cotton however, and are signatories to the Zero Discharge Hazardous Chemicals (ZDHC)."
+    },
+    "labour": {
+      "forcedLabour": false,
+      "score": 3,
+      "info": "The company source a lot of their cotton from Uzbekistan and Turkmenistan, who's governments forcibly mobilised over one million citizens to grow and harvest cotton, according to Anti-Slavery International (ASI). However, as of 2021, it's not expected that companies using organic cotton to have developed a policy on Uzbekistan cotton."
+    },
+    "philanthropy": {
+      "donations": "N/A",
+      "info": "N/A"
+    },
+    "news": [
+      {
+        "headline": "FW22/23 collection with technological and sustainable innovations represents future brand direction",
+        "source": "https://www.jack-wolfskin.co.uk/20220117-brand-reset.html"
+      },
+      {
+        "headline": "Jack Wolfskin Marked by Wilderness - 40 Years of Innovation, Weather Protection and Adventure!",
+        "source": "https://www.jack-wolfskin.co.uk/20210309-jack-wolfskin-marked-by-the-wilderness.html"
+      },
+      {
+        "headline": "Jack Wolfskin completes certification process for ecolabel 'GRÜNER KNOPF'",
+        "source": "https://www.jack-wolfskin.co.uk/2020-09-16-gruener-knopf.html"
+      }
+    ],
+    "certificates": ["Bluesign System Partner", "Fair Wear Foundation", "Responsible Down Standard"],
+    "totalScore": 65,
+    "extraInfo": "N/A",
+    "sources": ["https://www.jack-wolfskin.co.uk", "www.callawaygolf.com"],
+    "category": "clothing",
+    "logo": "https://iconape.com/wp-content/files/rg/202572/png/jack-wolfskin-logo.png"
+  },
+  {
+    "name": "Prada",
+    "revenue": 17300000,
+    "ownership": {
+      "owner": "Prada Holding B.V.",
+      "info": "95% owned by Prada Holding B.V."
+    },
+    "animals": {
+      "testing": true,
+      "score": 2,
+      "info": "Without a statement from the company publicly declaring it to ban the use of real fur, it is assumed that it is involved in the production, supply or retail of fur products. They also do not disclose whether their fragrence production involves animal testing. Because of this, it cannot be considered cruelty-free, as per PETA's standard."
+    },
+    "environment": {
+      "co2": "N/A",
+      "pledges": [],
+      "score": 2,
+      "info": "The company does not report on it's Scope 1, Scope 2 or Scope 3 emissions, or whether they have any targets in line with international agreements."
+    },
+    "labour": {
+      "forcedLabour": true,
+      "score": 2,
+      "info": "A report published by the Clean Clothes Campaign (CCC) in November 2017, 'Europe's Sweatshops', found that Prada had sourced garments and/or footwear from one or more countries in Eastern Europe where workers rights were often ignored."
+    },
+    "philanthropy": {
+      "donations": "£10,000",
+      "info": "Donated to China's Henan province, which was affected by severe flooding in July 2021."
+    },
+    "news": [
+      {
+        "headline": "With new launches, Prada and Guerlain are positioning NFTs as keys to future innovation",
+        "source": "https://www.glossy.co/fashion/with-new-launches-prada-and-guerlain-are-positioning-nfts-as-keys-to-future-innovation/"
+      },
+      {
+        "headline": "Check Out These Upcycled Prada Shirts, Of Which Only 50 Will Be Sold",
+        "source": "https://gothammag.com/prada-timecapsule-nft-july-2022"
+      },
+      {
+        "headline": "Prada Seeks to Fashion Greener Luxury Brand Under Future CEO",
+        "source": "https://financialpost.com/pmn/business-pmn/prada-seeks-to-fashion-greener-luxury-brand-under-future-ceo"
+      }
+    ],
+    "certificates": ["LEED Platinum Certification"],
+    "totalScore": 55,
+    "extraInfo": "N/A",
+    "sources": ["https://pradagroup.com", "https://cleanclothes.org/"],
+    "category": "clothing",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Prada-Logo.svg"
+  }
+]
