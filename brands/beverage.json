@@ -1,0 +1,257 @@
+[
+    {
+      "name": "The Coca-Cola Company",
+      "revenue": 37700000000,
+      "ownership": {
+        "owner": "Berkshire Hathaway (9.28%); The Vanguard Group (7.25%); BlackRock (6.56%)",
+        "info": "Publicly listed company"
+      },
+      "animals": {
+        "testing": "No",
+        "score": 2,
+        "info": "A number of the products they sell contain animal derivatives such as fish gelatine; honey; vitamin D sourced from lanolin in sheep's wool; or milk, for which it has no animal welfare policies."
+      },
+      "environment": {
+        "co2": "5,490,000 MT",
+        "pledges": [
+          "Net zero emissions by 2040"
+        ],
+        "score": 1,
+        "info": "The company is responsible for about 3 million tonnes of plastic packaging a year, and according to a 2019 survey by Break Free From Plastic, it was named the world's biggest plastic polluter."
+      },
+      "labour": {
+        "forcedLabour": "Yes",
+        "score": 1,
+        "info": "The company profits directly from child labour in a recycling plant, named 'Petstar Plant', in Mexico. The plant was said to pay collectors $0.05 per pound of plastic and approximately 500 families survive in the area without electricity or drinking water. It is not confirmed how many children or adolescents work at the plant."
+      },
+      "philanthropy": {
+        "donations": "$820,000,000",
+        "info": "Total donated to local communities worldwide by The Coca-Cola Foundation since 1984"
+      },
+      "news": [
+        {
+          "headline": "Coca-Cola among brands greenwashing over packaging, report says",
+          "source": "https://www.theguardian.com/environment/2022/jun/30/coca-cola-among-brands-greenwashing-over-packaging-report-says"
+        },
+        {
+          "headline": "Heartbreaking images of duck trapped in Coca-Cola bottle in Leith spark fury among SSPCA chiefs",
+          "source": "https://www.edinburghlive.co.uk/news/edinburgh-news/heartbreaking-images-duck-trapped-coca-24446659"
+        },
+        {
+          "headline": "Strike action threatened at Coca-Cola Wakefield",
+          "source": "https://www.foodmanufacture.co.uk/Article/2022/06/30/strike-action-threatened-at-coca-cola-wakefield"
+        }
+      ],
+      "certificates": ["ISO 27001 Information Security"],
+      "totalScore": 10,
+      "extraInfo": "In an article entitled 'Coca-Cola's products Sprite and Fanta may be 'poisonous', rules Nigeria Court' the Independent reported a Lagos High Court had ruled that high levels of benzoic acid and additives in Coca-Cola's soft drinks could pose a health risk to consumers when mixed with ascorbic acid, commonly known as vitamin C",
+      "sources": [
+        "https://www.theguardian.com/gnmeducationcentre/2020/jun/16/hypocrisy-and-big-business-how-difficult-is-it-to-go-green",
+        "https://www.coca-cola.com/", "https://www.business-humanrights.org/en/latest-news/recycling-misery-how-coca-cola-profits-from-garbage-collected-by-mexican-children/"
+      ],
+      "category": "beverage",
+      "logo": "https://asset.brandfetch.io/idftrGPfCd/idFE0hcVET.svg"
+    },
+    {
+      "name": "PepsiCo",
+      "revenue": 79400000000,
+      "ownership": {
+        "owner": "The Vanguard Group (8.60%); BlackRock (4.82%); SSga Funds Management (4.30%) ",
+        "info": "Publicly listed company"
+      },
+      "animals": {
+        "testing": "No",
+        "score": 2,
+        "info": "The company has not explicitly said that it oes not have a policy of not testing or commissioning tests on animals. It has stated that it may provide financial support for studies involving animal testing on a case-by-case basis."
+      },
+      "environment": {
+        "co2": "3.6m tonnes",
+        "pledges": [
+          "Reduce absolute Scope 1 and 2 GHG emissions 75% and Scope 3 GHG emissions 40% by 2030"
+        ],
+        "score": 1,
+        "info": "Despite the companies positive action towards reducing it's own carbon output, PepsiCo are still partnered with The Salim Group, who have been exposed for links to the destruction of nearly 10,000 hectares of Borneo's forests. They are among the top three polluters in the world, along with Coca-Cola and Nestlé"
+      },
+      "labour": {
+        "forcedLabour": "Yes",
+        "score": 2,
+        "info": "The company use palm oil supplied by FGV, a company which has been found guilty of human trafficking and forced labour on its plantations. The oil supplier is reliant on migrant workers recruited by mercenary human traffickers."
+      },
+      "philanthropy": {
+        "donations": "$71 million",
+        "info": "Donated via the PepsiCo Foundation since the COVID-19 outbreak, to  provide protective gear for health care workers, support testing and screening services, and bring more than 145 million meals to those in at-risk populations"
+      },
+      "news": [
+        {
+          "headline": "Coca-Cola, Pepsi and Nestlé named top plastic polluters for third year in a row",
+          "source": "https://www.theguardian.com/environment/2020/dec/07/coca-cola-pepsi-and-nestle-named-top-plastic-polluters-for-third-year-in-a-row"
+        },
+        {
+          "headline": "PepsiCo meets saturated fat reduction goal 4 years early",
+          "source": "https://www.fooddive.com/news/pepsico-meets-saturated-fat-reduction-goal-4-years-early/626804/"
+        },
+        {
+          "headline": "PepsiCo's New ESG Summary Offers First Look at Progress Toward Industry-Leading PepsiCo Positive Goals",
+          "source": "https://www.prnewswire.com/news-releases/pepsicos-new-esg-summary-offers-first-look-at-progress-toward-industry-leading-pepsico-positive-goals-301582089.html"
+        }
+      ],
+      "certificates": ["ISO 14001 Environmental Management"],
+      "totalScore": 10,
+      "extraInfo": "N/A",
+      "sources": [
+        "https://www.theguardian.com/environment/2020/dec/07/coca-cola-pepsi-and-nestle-named-top-plastic-polluters-for-third-year-in-a-row", "https://www.pepsico.com", "https://actions.sumofus.org/a/it-s-time-procter-and-gamble-tackles-palm-oil-exploitation-in-its-supply-chain"
+      ],
+      "category": "beverage",
+      "logo": "https://asset.brandfetch.io/idzsO4cZJ1/idV-FDO2O5.svg"
+    },
+    {
+      "name": "Karma Cola UK",
+      "revenue": 12000000,
+      "ownership": {
+        "owner": "Simon Coley, Chris Morrison and Matt Morrison",
+        "info": "Founded on the idea of a making a connection between producers and consumers, and prides itself on being fair trade."
+      },
+      "animals": {
+        "testing": "No",
+        "score": 5,
+        "info": "No animals are involved in the production of their products."
+      },
+      "environment": {
+        "co2": "No data",
+        "pledges": [],
+        "score": 4,
+        "info": "The majority of the companies products are either clearly marketed as organic, or its key ingredients were listed as organic. The Karma Cola Foundation was working with people near the Gola Rainforest in Sierra Leone to sustainably harvest cola, to 'prove it's possible to benefit from the abundance of the rainforest without tearing it down'."
+      },
+      "labour": {
+        "forcedLabour": "No",
+        "score": 5,
+        "info": "Each person along the supply chain gets paid a fair wage, from growers in Sri Lanka to staff in New Zealand and London. Karma Cola is Living Wage accredited. By holding to this commitment, it puts pressure on suppliers to uphold the same standards."
+      },
+      "philanthropy": {
+        "donations": "Money from every bottle sold goes back to the Karma Cola Foundation, to help with grassroots community activist programmes.",
+        "info": "Information company provides impact reports, detailing the work they have done with the local communities they work with. They can be found on their website."
+      },
+      "news": [
+        {
+          "headline": "Karma Cola on track to turn record profit two years in a row",
+          "source": "https://www.nzherald.co.nz/business/karma-cola-on-track-to-turn-record-profit-two-years-in-a-row/QVVGHYA6FC4ZKWKWTD7BHX6AF4/"
+        },
+        {
+          "headline": "Kiwi drinks brand Karma Cola signs distribution deal with UK restaurant giant Wagamama",
+          "source": "https://www.nzherald.co.nz/business/kiwi-drinks-brand-karma-cola-signs-distribution-deal-with-uk-restaurant-giant-wagamama/XMARI7PWIKHSJHYWEVJ5RWMZBQ/"
+        },
+        {
+          "headline": "Karma Cola launches tongue-in-cheek campaign for 'bad adults'",
+          "source": "https://www.creativereview.co.uk/karma-colas-tongue-in-cheek-campaign-for-bad-adults/"
+        }
+      ],
+      "certificates": ["Fairtrade"],
+      "totalScore": 90,
+      "extraInfo": "The companies ethos is to 'use ingredients that are good for the land, good for the people who grow them and good for the people who consume them'",
+      "sources": [
+        "https://www.nzherald.co.nz/business/kiwi-drinks-brand-karma-cola-signs-distribution-deal-with-uk-restaurant-giant-wagamama/XMARI7PWIKHSJHYWEVJ5RWMZBQ/#:~:text=Karma%20Cola%20was%20founded%20in,itself%20on%20being%20fair%20trade.", "https://karmadrinks.co.uk/"
+      ],
+      "category": "beverage",
+      "logo": "https://cdn.shopify.com/s/files/1/0372/6085/3384/files/Asset_411.png?v=1628944086"
+    },
+    {
+      "name": "Gusto Organic Ltd",
+      "revenue": 837000,
+      "ownership": {
+        "owner": "Craig Sams",
+        "info": "N/A"
+      },
+      "animals": {
+        "testing": "No",
+        "score": 5,
+        "info": "The company has stated that 'As a vegan and organic drinks brand we do not use animal products, test on animals or work with any fish derivatives'."
+      },
+      "environment": {
+        "co2": "No data",
+        "pledges": [],
+        "score": 5,
+        "info": "They do not use palm oil or permit the use of palm oil in any of their products. Seven of their eight products are also certified organic by the Soil Association. As well as this, they state the glass bottles they use have 'the highest percentage possible of recycled material'."
+      },
+      "labour": {
+        "forcedLabour": "No",
+        "score": 5,
+        "info": "All of the companies products are Fairtrade certified. They have also introduced their Mexican organic agave supplier IM AG to the Fairtrade Foundation and worked with them for 18 months to gain certification"
+      },
+      "philanthropy": {
+        "donations": "No data",
+        "info": "N/A"
+      },
+      "news": [
+        {
+          "headline": "Redefining sugar in the drinks industry with Will Fugard, CEO of Gusto Organic Drinks",
+          "source": "https://www.drinks-insight-network.com/features/drink-trends-q-a-ceo-of-gusto-organic-drinks/"
+        },
+        {
+          "headline": "Gusto Organic gains popularity with its Fairtrade organic cola",
+          "source": "https://www.beveragedaily.com/Article/2017/08/17/Gusto-Organic-gains-popularity-with-its-Fairtrade-organic-cola"
+        },
+        {
+          "headline": "Craig Sams and the Birth of Gusto",
+          "source": "https://drinkgusto.com/craig-sams-and-the-birth-of-gusto/#:~:text=In%20a%202007%20interview%20with,Sams%20and%20his%20brother%20Greg.%E2%80%9D"
+        }
+      ],
+      "certificates": ["Fairtrade", "Soil Association"],
+      "totalScore": 90,
+      "extraInfo": "N/A",
+      "sources": [
+        "https://drinkgusto.com/"
+      ],
+      "category": "beverage",
+      "logo": "https://asset.brandfetch.io/idpnDjCxBE/idOqArL2qR.png"
+    },
+    {
+      "name": "Fevertree Ltd",
+      "revenue": 260500000,
+      "ownership": {
+        "owner": "Fevertree Drinks PLC",
+        "info": "100% owned by Fevertree Drinks PLC"
+      },
+      "animals": {
+        "testing": "No",
+        "score": 0,
+        "info": "No information"
+      },
+      "environment": {
+        "co2": "N/A",
+        "pledges": ["Become carbon neutral across all our territories by 2025"],
+        "score": 4,
+        "info": "Their bottles and can packaging are 100% recyclable and on average each bottle contains 35% of recycled glass and each can contains on average 45% recycled aluminium. The company has also announced that they are carbon neutral across all sites in the UK."
+      },
+      "labour": {
+        "forcedLabour": "No",
+        "score": 3,
+        "info": "The company state that it's Social, Ethical and Environmental Business Policy was in accordance with the International Labour Organisation fundamental conventions. However, the policy is not publicly available."
+      },
+      "philanthropy": {
+        "donations": "£1,000,000",
+        "info": "Donated to fight malaria through its partnership with Malaria No More."
+      },
+      "news": [
+        {
+          "headline": "Fever-Tree and All Bar One to care for 150 'tiny forests' across the UK",
+          "source": "https://www.edie.net/fever-tree-and-all-bar-one-to-create-150-tiny-forests-across-the-uk/"
+        },
+        {
+          "headline": "All Fever-Tree mixers sold in the UK are now carbon neutral",
+          "source": "https://www.retailtimes.co.uk/all-fever-tree-mixers-sold-in-the-uk-are-now-carbon-neutral/"
+        },
+        {
+          "headline": "BIDFOOD signs exclusive on-trade distributorship for FEVER-TREE products in the UAE",
+          "source": "https://www.hotelnewsme.com/suppliers/bidfood-signs-exclusive-on-trade-distributorship-for-fever-tree-products-in-the-uae/"
+        }
+      ],
+      "certificates": [],
+      "totalScore": 70,
+      "extraInfo": "N/A",
+      "sources": [
+        "https://www.fever-tree.com"
+      ],
+      "category": "beverage",
+      "logo": "https://asset.brandfetch.io/id32_kY3dS/id-FFQTVND.svg"
+    }
+]

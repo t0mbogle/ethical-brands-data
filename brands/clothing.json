@@ -46,7 +46,7 @@
         "source": "https://biomarketinsights.com/the-north-face-joins-archive-resale-circular-initiative/"
       }
     ],
-    "certificates": ["Bluesign System Partner", "Resbonsible Down Standard"],
+    "certificates": ["Bluesign System Partner", "Responsible Down Standard"], 
     "totalScore": 65,
     "extraInfo": "N/A",
     "sources": [
@@ -84,7 +84,7 @@
     "labour": {
       "forcedLabour": false,
       "score": 3,
-      "info": "The company was named in a report titled 'Global Supply Chains, Forced Labor, and the Xinjiang Uyghur Autonomous Region [XUAR]' where it was allegedly 'suspected of directly employing forced labor or sourcing from suppliers that are suspected of using forced labor'. The company have since stated that they are activeley exiting the Xinjiang region, in accordance with with the Fair Labor Association (FLA)."
+      "info": "The company was named in a report titled 'Global Supply Chains, Forced Labor, and the Xinjiang Uyghur Autonomous Region [XUAR]' where it was allegedly 'suspected of directly employing forced labor or sourcing from suppliers that are suspected of using forced labor'. The company have since stated that they are actively exiting the Xinjiang region, in accordance with with the Fair Labor Association (FLA)."
     },
     "philanthropy": {
       "donations": "More than $110 million to date",
@@ -129,7 +129,7 @@
     "animals": {
       "testing": true,
       "score": 2,
-      "info": "Although OTB SpA states that 'any technique to obtain plumes and feathers from live animals are prohibited' for it's compaines, the company has not adopted a standard for sourcing down. Diesel also do not disclose whether their fragrence production involves animal testing. Because of this, it cannot be considered cruelty-free, as per PETA's standard."
+      "info": "Although OTB SpA states that 'any technique to obtain plumes and feathers from live animals are prohibited' for it's companies, the company has not adopted a standard for sourcing down. Diesel also do not disclose whether their fragrance production involves animal testing. Because of this, it cannot be considered cruelty-free, as per PETA's standard."
     },
     "environment": {
       "co2": "N/A",
@@ -178,7 +178,7 @@
     "animals": {
       "testing": false,
       "score": 4,
-      "info": "they do not use real fur in their producs. They also state 'Mulesing is a no-go for us. We pay close attention to where our Merino wool comes from; only accepting wool where the animals' welfare is maintained. We absolutely condemn cruel mulesing'."
+      "info": "they do not use real fur in their products. They also state 'Mulesing is a no-go for us. We pay close attention to where our Merino wool comes from; only accepting wool where the animals' welfare is maintained. We absolutely condemn cruel mulesing'."
     },
     "environment": {
       "co2": "N/A",
@@ -226,7 +226,7 @@
     "animals": {
       "testing": true,
       "score": 2,
-      "info": "Without a statement from the company publicly declaring it to ban the use of real fur, it is assumed that it is involved in the production, supply or retail of fur products. They also do not disclose whether their fragrence production involves animal testing. Because of this, it cannot be considered cruelty-free, as per PETA's standard."
+      "info": "Without a statement from the company publicly declaring it to ban the use of real fur, it is assumed that it is involved in the production, supply or retail of fur products. They also do not disclose whether their fragrance production involves animal testing. Because of this, it cannot be considered cruelty-free, as per PETA's standard."
     },
     "environment": {
       "co2": "N/A",

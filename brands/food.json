@@ -1,0 +1,170 @@
+[
+    {
+    "name": "Nestlé SA",
+    "revenue": 0,
+    "ownership": {
+      "owner": "Major Shareholders: The Vanguard Group (2.63%); Norges Bank Investment Management (2.60%); Capital Research & Management Co. (2.60%)",
+      "info": "Publicly listed company"
+    },
+    "animals": {
+      "testing": "Yes",
+      "score": 1,
+      "info": "Main animal derived material by volume is milk. However, the company do not disclose any welfare information detailing whether or not the cows were permitted to graze or were kept indoors. The company's policies also do not explicitly exclude the use of factory farming practices, nor does it exclude the use of zero grazing. "
+    },
+    "environment": {
+      "co2": "3.37m tonnes",
+      "pledges": [
+        "Reduce in-scope emissions by an absolute 20% by 2025.",
+        "Reduce in-scope emissions by an absolute 50% by 2030.",
+        "Reach net zero by 2050"
+      ],
+      "score": 1,
+      "info": "The company is among the top 3 polluters in the world, along with Coca-Cola and PepsiCo. It also still uses palm oil from producers that destroy rainforests, drain carbon-rich peatland and violate the human rights of workers and local communities. "
+    },
+    "labour": {
+      "forcedLabour": "Yes",
+      "score": 1,
+      "info": "The company use palm oil supplied by FGV, a company which has been found guilty of human trafficking and forced labour on its plantations. The oil supplier is reliant on migrant workers recruited by mercenary human traffickers."
+    },
+    "philanthropy": {
+      "donations": "£77,240,250.00",
+      "info": "Donated since March 2020, in response to the COVID-19 outbreak."
+    },
+    "news": [
+      {
+        "headline": "Nestlé and Unilever CEOs: we will make our supply chains deforestation-free",
+        "source": "https://www.ft.com/content/d0224863-6071-436d-a628-d7f3a71cb36f"
+      },
+      {
+        "headline": "Nestlé KitKat Stick optimizes to new recyclable paper packaging in July",
+        "source": "https://harbourtimes.com/2022/07/08/nestle-kitkat-stick-optimizes-to-new-recyclable-paper-packaging-in-july/"
+      },
+      {
+        "headline": "Recycling Pledges From Coca-Cola and Nestlé Are a Joke",
+        "source": "https://gizmodo.com/plastic-recycling-ocean-pollution-coca-cola-nestle-1848913391"
+      }
+    ],
+    "certificates": ["ISO 9001 Quality Management", "ISO 22000 Food Safety"],
+    "totalScore": 5,
+    "extraInfo": "N/A",
+    "sources": [
+      "https://www.nestle.com/ask-nestle", "https://actions.sumofus.org/a/it-s-time-procter-and-gamble-tackles-palm-oil-exploitation-in-its-supply-chain", "https://www.greenpeace.org/usa/research/moment-truth-time-brands-come-clean-links-forest-destruction-palm-oil/"
+    ],
+    "category": "food",
+    "logo": "https://asset.brandfetch.io/id1xOwiSj_/idfLr7odH_.svg"
+  },
+
+
+
+
+
+  {
+    "name": "Kellogg Company",
+    "revenue": 14181000000,
+    "ownership": {
+      "owner": "Major Shareholders: Bank of New York Mellon Trust Co. (16.9%); The Vanguard Group (8.34%), Capital Research & Management Co. (7.05%); KeyBank (6.30%)",
+      "info": "Publicly listed company"
+    },
+    "animals": {
+      "testing": "No",
+      "score": 2.5,
+      "info": "The company sells meat and dairy which is not organic or free-range."
+    },
+    "environment": {
+      "co2": "872,800 tonnes",
+      "pledges": [
+        "100% reusable/recyclable packaging by 2025"
+      ],
+      "score": 2,
+      "info": "Kellogg's is a customer of the palm oil trading company, Olam, which was linked with deforestation in Southeast Asia and Africa. Olam is one of the biggest palm oil trading companies that has yet to adopt a strong forest conservation and human rights policy."
+    },
+    "labour": {
+      "forcedLabour": "No",
+      "score": 3,
+      "info": "The company publishes a 'Progress Against Forced Labour' report annually to outline how they are mitigating forced labour in their supply chains. However, in December 2021, over 1,400 American employees unionized and went on strike, contesting the company's two-tier wage system."
+    },
+    "philanthropy": {
+      "donations": "100 million servings of Kellogg's products",
+      "info": "Donated as part of the company's Breakfast Club scheme"
+    },
+    "news": [
+      {
+        "headline": "Cereal Killers: How 80-Hour Weeks and a Caste System Pushed Kellogg's Workers to Strike",
+        "source": "https://www.rollingstone.com/politics/politics-features/kelloggs-strike-labor-wages-overtime-1261994/"
+      },
+      {
+        "headline": "Teenage activists deliver wheelbarrows of mud to Kellogg's factory to protest'misleading' health claims",
+        "source": "https://www.bigissue.com/news/activism/teenage-activists-deliver-wheelbarrows-of-mud-to-kelloggs-factory-to-protest-misleading-health-claims/"
+      },
+      {
+        "headline": "Kellogg's class action claims retirement plan participants paid 'excessive recordkeeping fees'",
+        "source": "https://topclassactions.com/lawsuit-settlements/money/401k/kelloggs-class-action-claims-retirement-plan-participants-paid-excessive-recordkeeping-fees/"
+      }
+    ],
+    "certificates": ["SQF certified", "ISO 14001 Environmental Management"],
+    "totalScore": 40,
+    "extraInfo": "N/A",
+    "sources": [
+      "https://www.kelloggs.co.uk/", "https://www.mightyearth.org/wp-content/uploads/2016/12/Palm-Oil-Black-Box-PrintApproval4.pdf"
+    ],
+    "category": "food",
+    "logo": "https://asset.brandfetch.io/id5JvZoDqq/idx9T0hNVX.svg"
+  },
+
+
+
+
+  {
+    "name": "Cadbury",
+    "revenue": 7240000000,
+    "ownership": {
+      "owner": "Mondelez International",
+      "info": "100% owned by Mondelez International"
+    },
+    "animals": {
+      "testing": "No",
+      "score": 3,
+      "info": "The company states they do not test their products on animals, nor do they fund or contract with external agencies or research institutions to conduct animal testing on their products or on their ingredients. However, the company does not have any policies prohibiting the feeding of genetically modified (GM) animal feed to their cattle."
+    },
+    "environment": {
+      "co2": "No data",
+      "pledges": [
+        "Sustainably sourced dairy for all products by 2025",
+        "Reduce total waste from manufacturing by 25% by 2025"
+      ],
+      "score": 2,
+      "info": "The company is a customer of the palm oil trading company, Olam, which was linked with deforestation in Southeast Asia and Africa. Olam is one of the biggest palm oil trading companies that has yet to adopt a strong forest conservation and human rights policy."
+    },
+    "labour": {
+      "forcedLabour": "Yes",
+      "score": 2,
+      "info": "The cocoa used by the company is not certified by either Fairtrade, Rainforest Alliance or UTZ, and the company does not demonstrate knowledge of supply chain to source. However it has pledged Child labor monitoring & remediation measures at 100% Cocoa Life communities in West Africa by 2025."
+    },
+    "philanthropy": {
+      "donations": "£10,000,000",
+      "info": "Donated over the last 15 years through The Cadbury Foundation"
+    },
+    "news": [
+      {
+        "headline": "Cadbury workers to get 17.5% pay boost, says Unite",
+        "source": "https://www.bbc.co.uk/news/uk-england-62071728"
+      },
+      {
+        "headline": "Cadbury owner buys US energy bar maker Clif for $2.9bn",
+        "source": "https://www.bbc.com/news/business-61875451"
+      },
+      {
+        "headline": "Mondelez Age Discrimination Lawsuit Results in $200K Verdict",
+        "source": "https://www.legalreader.com/mondelez-age-discrimination-lawsuit-results-in-200k-settlement/"
+      }
+    ],
+    "certificates": ["Cocoa Life - 100% sustainably sourced"],
+    "totalScore": 60,
+    "extraInfo": "N/A",
+    "sources": [
+      "https://www.cadbury.co.uk/", "https://www.mightyearth.org/wp-content/uploads/2016/12/Palm-Oil-Black-Box-PrintApproval4.pdf", "https://www.legalreader.com/mondelez-age-discrimination-lawsuit-results-in-200k-settlement/"
+    ],
+    "category": "food",
+    "logo": "https://asset.brandfetch.io/idF-L68nZ-/id-43R3auj.png"
+  }
+]
